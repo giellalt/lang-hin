@@ -1,0 +1,11 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+datadir=@datarootdir@
+gtlang=hin
+dir=${datadir}/giella/${gtlang}
+srcdir=${datadir}/giella/${gtlang}
+
+Name: giella-hin
+Description: Finite-state language processing tools for Hindi
+URL: http://divvun.no/doc/index.html
+Version: @VERSION@
