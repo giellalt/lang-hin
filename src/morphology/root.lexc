@@ -3,8 +3,10 @@ Multichar_Symbols ! Hindi nouns
 
 LEXICON Root
 Noun ;
+Punctuation ;
+Symbols     ;
 
-LEXICON Noun 
+LEXICON Noun
 लऱका:लऱक FIRSTLONG ; ! larka, 'boy'
 कुअाँ:कु FIRSTSHORT ; ! kuã, 'well'
 घर SECOND ; ! ghar, 'house'
