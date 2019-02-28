@@ -1,6 +1,8 @@
 Multichar_Symbols ! Hindi nouns
 +N +Sg +Pl +Nom +Obl +Voc
 
++Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
+
 LEXICON Root
 Noun ;
 Punctuation ;
