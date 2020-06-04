@@ -1,0 +1,9 @@
+name = "Hindi"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.hi"
+
+[windows]
+system_product_code = "DBC2B2CC-628D-4C57-9DA7-B8817F51FD6C"
+msoffice_product_code = "7259185E-4A50-45AC-8EE8-4AB4FAE63F8A"
