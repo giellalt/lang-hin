@@ -1,13 +1,12 @@
 
-LEXICON Noun 
 
-
+LEXICON Noun
 लऱका:लऱक FIRSTLONG ; ! larka, 'boy'
 कुअाँ:कु FIRSTSHORT ; ! kuã, 'well'
 घर SECOND ; ! ghar, 'house'
 लऱकी THIRD ; ! larkii, 'girl'
 
-LEXICON FIRSTLONG
+LEXICON FIRSTLONG ! first decl, long vow
 +N+Msc+Sg+Nom:ा # ;
 +N+Msc+Sg+Obl:े # ;
 +N+Msc+Sg+Voc:े # ;
@@ -15,7 +14,7 @@ LEXICON FIRSTLONG
 +N+Msc+Pl+Obl:ों # ;
 +N+Msc+Pl+Voc:ो # ;
 
-LEXICON FIRSTSHORT
+LEXICON FIRSTSHORT ! first decl, short vow
 +N+Msc+Sg+Nom:अाँ # ;
 +N+Msc+Sg+Obl:एँ # ;
 +N+Msc+Sg+Voc:एँ # ;
@@ -23,7 +22,7 @@ LEXICON FIRSTSHORT
 +N+Msc+Pl+Obl:आों # ;
 +N+Msc+Pl+Voc:ओ # ;
 
-LEXICON SECOND
+LEXICON SECOND ! 2nd decl
 +N+Msc+Sg+Nom: # ;
 +N+Msc+Sg+Obl: # ;
 +N+Msc+Sg+Voc: # ;
@@ -31,7 +30,7 @@ LEXICON SECOND
 +N+Msc+Pl+Obl:ों # ;
 +N+Msc+Pl+Voc:ो # ;
 
-LEXICON THIRD
+LEXICON THIRD ! 3rd decl
 +N+Fem+Sg+Nom: # ;
 +N+Fem+Sg+Obl: # ;
 +N+Fem+Sg+Voc: # ;
