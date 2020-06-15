@@ -8,40 +8,5 @@ Noun ;
 Punctuation ;
 Symbols     ;
 
-LEXICON Noun
-लऱका:लऱक FIRSTLONG ; ! larka, 'boy'
-कुअाँ:कु FIRSTSHORT ; ! kuã, 'well'
-घर SECOND ; ! ghar, 'house'
-लऱकी THIRD ; ! larkii, 'girl'
-
-LEXICON FIRSTLONG ! first decl, long vow
-+N+Msc+Sg+Nom:ा # ;
-+N+Msc+Sg+Obl:े # ;
-+N+Msc+Sg+Voc:े # ;
-+N+Msc+Pl+Nom:े # ;
-+N+Msc+Pl+Obl:ों # ;
-+N+Msc+Pl+Voc:ो # ;
-
-LEXICON FIRSTSHORT ! first decl, short vow
-+N+Msc+Sg+Nom:अाँ # ;
-+N+Msc+Sg+Obl:एँ # ;
-+N+Msc+Sg+Voc:एँ # ;
-+N+Msc+Pl+Nom:एँ # ;
-+N+Msc+Pl+Obl:आों # ;
-+N+Msc+Pl+Voc:ओ # ;
-
-LEXICON SECOND ! 2nd decl
-+N+Msc+Sg+Nom: # ;
-+N+Msc+Sg+Obl: # ;
-+N+Msc+Sg+Voc: # ;
-+N+Msc+Pl+Nom:ों # ;
-+N+Msc+Pl+Obl:ों # ;
-+N+Msc+Pl+Voc:ो # ;
-
-LEXICON THIRD ! 3rd decl
-+N+Fem+Sg+Nom: # ;
-+N+Fem+Sg+Obl: # ;
-+N+Fem+Sg+Voc: # ;
-+N+Fem+Pl+Nom:याँ # ;
-+N+Fem+Pl+Obl:यों # ;
-+N+Fem+Pl+Voc:यो # ;
+LEXICON K
+# ;
