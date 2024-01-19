@@ -2,7 +2,7 @@
 <hfstspeller dtdversion="1.0" hfstversion="3">
   <info>
     <locale>hi</locale>
-    <title>Giellatekno/Divvun/UiT fst-based speller for Hindi</title>
+    <title>Hindi</title>
     <description>This is an fst-based speller for Hindi. It is based
     on the normative subset of the morphological analyser for Hindi.
     The source code can be found at:
