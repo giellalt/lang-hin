@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-hin)](https://github.com/giellalt/lang-hin/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-hin)](https://github.com/giellalt/lang-hin/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-hin?label=CI)](https://builds.giellalt.org/pipelines/lang-hin/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **Hindi language model**. 
 
