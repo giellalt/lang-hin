@@ -1,4 +1,9 @@
-Multichar_Symbols ! Hindi nouns
+Multichar_Symbols !! Hindi nouns
+
+!! Alphabetic symbols:
+
+का कु अाँ की  ों एँ आों याँ यों यो 
+
 +N +Sg +Pl +Nom +Obl +Voc
 
 +Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
@@ -7,6 +12,7 @@ LEXICON Root
 Noun ;
 Punctuation ;
 Symbols     ;
+Verb ;
 
 LEXICON K
 # ;
